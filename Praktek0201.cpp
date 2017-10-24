@@ -3,10 +3,11 @@
 	using namespace std;
 
 int main(){
+	nilai=1Nilai+1;
 	int nilai;
-	int Nilai;
-	nilai=nilai+1;
+	int 1Nilai;
+	
 	
 	cout << nilai;
-	cout << Nilai;
+	cout << 1Nilai;
 }
